@@ -9,3 +9,7 @@ func main() {
 func GetString() {
 	fmt.Println("This is GetString")
 }
+
+func GetInt() {
+	fmt.Println("This is GetInt")
+}
