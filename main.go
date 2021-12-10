@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	GetString()
 	fmt.Println("this is main")
 }
 
