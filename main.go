@@ -21,3 +21,7 @@ func Slice() {
 func Slice2() {
 	fmt.Println("This is Slice2")
 }
+
+func GetMap() {
+	fmt.Println("This is GetMap")
+}
