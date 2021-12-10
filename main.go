@@ -10,8 +10,8 @@ func GetString() {
 	fmt.Println("This is GetString")
 }
 
-func GetInt() {
-	fmt.Println("This is GetInt")
+func AddInt() {
+	fmt.Println("AddInt")
 }
 
 func Slice1() {
