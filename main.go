@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	GetString()
+	AddInt()
 	fmt.Println("this is main")
 }
 
