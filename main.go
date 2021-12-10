@@ -13,3 +13,7 @@ func GetString() {
 func GetInt() {
 	fmt.Println("This is GetInt")
 }
+
+func Slice() {
+	fmt.Println("This is Slice")
+}
