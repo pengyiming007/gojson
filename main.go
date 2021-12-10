@@ -14,7 +14,7 @@ func GetInt() {
 	fmt.Println("This is GetInt")
 }
 
-func Slice() {
+func Slice1() {
 	fmt.Println("This is Slice")
 }
 
