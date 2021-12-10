@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	GetString()
+	GetString1()
 	AddInt()
 	fmt.Println("this is main")
 }
@@ -30,4 +30,8 @@ func GetMap() {
 
 func AddString() {
 	fmt.Println("This is AddString")
+}
+
+func AddSlice() {
+	fmt.Println("This is AddSlice")
 }
