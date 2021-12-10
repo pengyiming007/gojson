@@ -17,3 +17,7 @@ func GetInt() {
 func Slice() {
 	fmt.Println("This is Slice")
 }
+
+func Slice2() {
+	fmt.Println("This is Slice2")
+}
